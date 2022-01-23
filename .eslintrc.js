@@ -49,6 +49,7 @@ module.exports = {
         arguments: 'first',
       },
     }],
+    'linebreak-style': 'off',
     'no-bitwise': 'off',
     'no-iterator': 'off',
     'global-require': 'off',
